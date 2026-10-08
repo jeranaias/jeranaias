@@ -15,7 +15,7 @@ Founder and CEO of [Lanchester Industries](https://lanchester.ai) (autonomy for 
 | [HawkStack paper](https://github.com/thornveil-ai/hawkstack-paper) | Sub-million-parameter models across six domains | Includes a reproducibility audit of a published result |
 | [DonDocs](https://github.com/marinecoders/dondocs) | Naval correspondence generator | Used across Marine Corps commands |
 
-**Private, available to discuss:** Meridian, the Lanchester vessel autonomy stack (built by nine coordinated agent teams, 1,300+ merged pull requests) and Auspex, a governed red-team agent.
+**Private, available to discuss:** Meridian, the Lanchester vessel autonomy stack (built by seven coordinated Claude Code agent teams, 1,300+ merged pull requests) and Auspex, a governed red-team agent.
 
 Python · Go · Rust · TypeScript · PyTorch · Claude Code
 
